@@ -1,4 +1,10 @@
-### Hi there 👋🤓<br>I'm Siti Khotijah<br></h3>
+<section id="main-content">
+          
+<h3 align="center">Hi there! 👋🤓<br>I'm Siti Khotijah<br></h3>
+
+<p><br>
+<br>
+<br></p>
 
 <!--
 **skhotijah/skhotijah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
