@@ -1,6 +1,6 @@
 <section id="main-content">
           
-<h3 align="center">Hi there! 👋🤓<br>I'm Siti Khotijah<br></h3>
+<h3 align="center">Hi there! 👋🤓</h3>
 
 <p><br>
 <br>
