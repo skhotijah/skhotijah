@@ -37,8 +37,9 @@ const skhotijah = {
 [![GitHub skhotijah](https://img.shields.io/github/followers/skhotijah?label=follow&style=social)](https://github.com/skhotijah)   
 </p>
           
----
 
+<!--🦶FOOTER--> 
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
 <p><br>
 <br>
 <br></p>
