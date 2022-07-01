@@ -28,6 +28,7 @@ I'm Siti Khotijah, I studied  Master's Degree in Computer Science and am current
 [![GitHub skhotijah](https://img.shields.io/github/followers/skhotijah?label=follow&style=social)](https://github.com/skhotijah)         
 [![Medium: skhotijah](https://img.shields.io/badge/-skhotijah-black?style=flat-square&logo=Medium&logoColor=white&link=https://www.medium.com/in/thaianebraga/)](https://medium.com/@khotijahs1)
 <a href="https://www.kaggle.com/khotijahs1"><img height="20" src="https://img.shields.io/badge/Kaggle-profile-%2320beff"></a>
+<a href="https://numer.ai/skhotijah"><img height="20" src="https://img.shields.io/badge/Numerai-profile-%2320beff"></a>
 
 </p>
      
