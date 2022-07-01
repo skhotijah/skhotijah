@@ -2,17 +2,17 @@
           
           
           
-<h2> Hi,  I'm Siti Khotijah  👋
+<h2> Hi   👋
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
    
  
 ### A little more about me...  
+
 ---
-I'm currently:
-- 👩‍💻an AI Engineer at Shipper Indonesia
-- 👩‍💻an Ambassador at TrueFoundry
----
+
+I'm Siti Khotijah, I studied  Master's Degree in Computer Science and am currently a Kaggle Notebook Master with a 3x Kaggle Expert (competitions, Datasets, Discussion).
+
           
 ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/khotijahs1/competition/light)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/khotijahs1/dataset/light)
@@ -20,14 +20,6 @@ I'm currently:
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/khotijahs1/discussion/light)
 
 
-
-
-
-
-          
-          
-          
----
 
 <p align=center>
           
@@ -38,4 +30,19 @@ I'm currently:
 <a href="https://www.kaggle.com/khotijahs1"><img height="20" src="https://img.shields.io/badge/Kaggle-profile-%2320beff"></a>
 
 </p>
+     
+---
+
+
+I'm currently::
+
+- 👩‍💻an AI Engineer at Shipper Indonesia
+- 👩‍💻an Ambassador at TrueFoundry
+
+
+
           
+          
+          
+---
+     
