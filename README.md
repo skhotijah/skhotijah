@@ -34,7 +34,7 @@ I'm Siti Khotijah, I studied  Master's Degree in Computer Science and am current
 ---
 
 
-I'm currently::
+I'm currently:
 
 - 👩‍💻an AI Engineer at Shipper Indonesia
 - 👩‍💻an Ambassador at TrueFoundry
@@ -44,5 +44,5 @@ I'm currently::
           
           
           
----
+
      
