@@ -34,7 +34,7 @@ I'm currently:
 [![Twitter: quintbian](https://img.shields.io/twitter/follow/quintbian?style=social)](https://twitter.com/quintbian)
 [![Linkedin: skhotijah](https://img.shields.io/badge/-skhotijah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/skhotijah/)
 [![GitHub skhotijah](https://img.shields.io/github/followers/skhotijah?label=follow&style=social)](https://github.com/skhotijah)   
-[![Medium: skhotijah](https://img.shields.io/badge/-skhotijah-black?style=flat-square&logo=Medium&logoColor=white&link=https://www.medium.com/in/thaianebraga/)]([https://www.linkedin.com/in/skhotijah/](https://medium.com/@khotijahs1))
+[![Medium: skhotijah](https://img.shields.io/badge/-skhotijah-black?style=flat-square&logo=Medium&logoColor=white&link=https://www.medium.com/in/thaianebraga/)]([[https://www.linkedin.com/in/skhotijah/](https://medium.com/@khotijahs1)](https://medium.com/@khotijahs1))
 
 </p>
           
