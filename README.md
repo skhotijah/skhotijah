@@ -11,7 +11,7 @@
 
 ---
 
-I'm Siti Khotijah, I studied  Master's Degree in Computer Science and am currently a Kaggle Notebook Master with a 3x Kaggle Expert (Competitions, Datasets, Discussion).
+I'm Siti Khotijah, I studied  Master's Degree in Computer Science and am currently a Kaggle Notebook Master with a 3x Kaggle Expert (Competitions, Datasets, Discussion). In addition to this, I am actively joining competitions at Numerai, and Rocket Competition - Rocket Capital Investment to Sharpen my Machine Learning and Deep Learning skill set.
 
           
 ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/khotijahs1/competition/light)
