@@ -35,7 +35,7 @@ I'm currently:
 [![Linkedin: skhotijah](https://img.shields.io/badge/-skhotijah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/skhotijah/)
 [![GitHub skhotijah](https://img.shields.io/github/followers/skhotijah?label=follow&style=social)](https://github.com/skhotijah)         
 [![Medium: skhotijah](https://img.shields.io/badge/-skhotijah-black?style=flat-square&logo=Medium&logoColor=white&link=https://www.medium.com/in/thaianebraga/)](https://medium.com/@khotijahs1)
-<a href="https://www.kaggle.com/khotijahs1"><img height="25" src="https://img.shields.io/badge/Kaggle-profile-%2320beff"></a>
+<a href="https://www.kaggle.com/khotijahs1"><img height="20" src="https://img.shields.io/badge/Kaggle-profile-%2320beff"></a>
 
 </p>
           
