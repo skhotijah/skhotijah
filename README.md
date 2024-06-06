@@ -11,7 +11,10 @@
 
 ---
 
-I'm Siti Khotijah, I studied  Master's Degree in Computer Science and am currently a Kaggle Notebook Master with a 3x Kaggle Expert (Competitions, Datasets, Discussion). In addition to this, I am actively joining competitions at Numerai, CrunchDAO, and Rocket Competition - Rocket Capital Investment to Sharpen my Machine Learning and Deep Learning skill set.
+I'm Siti Khotijah, I am a Ph.D. student in Computer Science, and I'm passionate about Artificial Intelligence and Data Science. I have a strong foundation in various areas, including Machine Learning, Natural Language Processing, Data Science, and Deep Learning. Throughout my academic career, I've gained extensive knowledge in data analysis and visualization using Python and R, employing Predictive Modeling, Natural Language Processing, Machine Learning, and Deep Learning.
+
+Furthermore, I actively participate in Kaggle competitions and hold the title of Kaggle Notebook Master with a 3x Kaggle Expert (Competitions, Datasets, Discussion). I'm also engaged in competitions on platforms like Numerai, Rocket Competition - Rocket Capital Investment, and CrunchDao, aiming to enhance my skills in Machine Learning and Deep Learning. I've collaborated with individuals from various countries to develop predictive models for these competitions.
+
 
           
 ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/khotijahs1/competition/light)
